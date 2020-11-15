@@ -1,0 +1,15 @@
+# Default ignore files
+.DS_Store
+settings.php
+
+composer.phar
+
+# Default local build settings
+.env
+
+# Ignoring Behat executable and vendor files
+bin/
+vendor/
+
+# Ignoring PHPStorm project file.
+.idea/
